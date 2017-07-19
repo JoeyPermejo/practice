@@ -11,3 +11,11 @@ C:\Users\pb7n0062\Documents\New folder\GitPractice\WpfApplication1\WpfApplicatio
 C:\Users\pb7n0062\Documents\New folder\GitPractice\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
 C:\Users\pb7n0062\Documents\New folder\GitPractice\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
 C:\Users\pb7n0062\Documents\New folder\GitPractice\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.lref
+C:\Users\pb7n0062\Documents\New folder\GitPractice\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\pb7n0062\Documents\New folder\GitPractice\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\pb7n0062\Documents\New folder\GitPractice\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.baml
+C:\Users\pb7n0062\Documents\New folder\GitPractice\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+C:\Users\pb7n0062\Documents\New folder\GitPractice\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\pb7n0062\Documents\New folder\GitPractice\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\pb7n0062\Documents\New folder\GitPractice\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe
+C:\Users\pb7n0062\Documents\New folder\GitPractice\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.pdb
